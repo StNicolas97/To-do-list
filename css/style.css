@@ -1,1 +1,43 @@
+body {
+    background-color: #000;
+    color: white;
+}
 
+.liste {
+    box-shadow: 5px 2px 5px yellow;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: #000;
+}
+
+.corps {
+    margin: auto;
+    text-align: center;
+}
+
+span {
+    color: gold;
+}
+
+li {
+    list-style: none;
+}
+
+#search {
+    box-shadow: 5px 2px 5px yellow;
+    border: 2px solid white;
+    border-radius: 5px;
+    color: black;
+}
+
+#Rouge {
+    color: red;
+}
+
+#Vert {
+    color: green;
+}
+
+#Bleu {
+    color: blue;
+}
